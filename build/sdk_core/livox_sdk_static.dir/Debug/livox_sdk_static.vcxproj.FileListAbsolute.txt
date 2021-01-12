@@ -1,0 +1,2 @@
+C:\Users\Ken\Livox-SDK\build\sdk_core\Debug\livox_sdk_static.pdb
+C:\Users\Ken\Livox-SDK\build\sdk_core\livox_sdk_static.dir\Debug\livox_sdk_static.pdb

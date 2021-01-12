@@ -1,0 +1,86 @@
+﻿  Building Custom Rule C:/Users/Ken/Livox-SDK/sdk_core/CMakeLists.txt
+  FastCRCsw.cpp
+  io_loop.cpp
+  thread_base.cpp
+  io_thread.cpp
+  network_util.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\base\network\win\network_util.cpp(45,16): warning C4244: '=': 'SOCKET' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Ken\Livox-SDK\sdk_core\src\base\network\win\network_util.cpp(116,25): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Ken\Livox-SDK\sdk_core\src\base\network\win\network_util.cpp(117,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Ken\Livox-SDK\sdk_core\src\base\network\win\network_util.cpp(133,65): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  logging.cpp
+  livox_sdk.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(128,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(135,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  device_discovery.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(128,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(135,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_discovery.cpp(72,97): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_discovery.cpp(155,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_discovery.cpp(171,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_discovery.cpp(180,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_discovery.cpp(201,5): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_discovery.cpp(202,5): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  device_manager.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(128,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(135,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.cpp(151,35): warning C4267: '=': 'size_t' から 'uint8_t' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.cpp(149,11): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.cpp(209,20): warning C4244: '=': 'ptrdiff_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.cpp(200,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.cpp(211,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  comm_port.cpp
+  sdk_protocol.cpp
+  data_handler.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(128,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(135,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hub_data_handler.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(128,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(135,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\data_handler\hub_data_handler.cpp(86,103): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  lidar_data_handler.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(128,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(135,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\data_handler\lidar_data_handler.cpp(119,103): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  command_handler.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(128,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(135,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  command_channel.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(128,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(135,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_channel.cpp(80,98): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_channel.cpp(200,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  hub_command_handler.cpp
+  lidar_command_handler.cpp
+  command_impl.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(128,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\device_manager.h(135,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(73,73): warning C4267: '初期化中': 'size_t' から 'uint16_t' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(77,11): warning C4244: '=': 'uint16_t' から 'uint8_t' への変換です。データが失われる可能性があります。
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(123,40): warning C4267: '初期化中': 'size_t' から 'uint8_t' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(123,40): warning C4267: '初期化中': 'size_t' から 'const uint8_t' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(124,41): warning C4267: '初期化中': 'size_t' から 'uint8_t' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(124,41): warning C4267: '初期化中': 'size_t' から 'const uint8_t' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(133,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(134,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(184,43): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(165,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(172,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(191,16): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(199,16): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sdk_core\src\command_handler\command_impl.cpp(207,12): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  multiple_io_base.cpp
+  コードを生成中...
+  コンパイル中...
+  multiple_io_epoll.cpp
+  multiple_io_poll.cpp
+  multiple_io_select.cpp
+  multiple_io_kqueue.cpp
+  wake_up_pipe.cpp
+C:\Users\Ken\Livox-SDK\sdk_core\src\base\wake_up\win\wake_up_pipe.cpp(43,8): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\base\wake_up\win\wake_up_pipe.cpp(54,32): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\src\base\wake_up\win\wake_up_pipe.cpp(73,28): warning C4244: '=': 'SOCKET' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Ken\Livox-SDK\sdk_core\src\base\wake_up\win\wake_up_pipe.cpp(93,27): warning C4244: '=': 'SOCKET' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Ken\Livox-SDK\sdk_core\src\base\wake_up\win\wake_up_pipe.cpp(114,28): warning C4244: '=': 'SOCKET' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  livox_sdk_static.vcxproj -> C:\Users\Ken\Livox-SDK\build\sdk_core\Debug\livox_sdk_static.lib

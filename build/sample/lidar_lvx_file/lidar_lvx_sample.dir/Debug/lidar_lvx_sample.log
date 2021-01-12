@@ -1,0 +1,11 @@
+﻿  Building Custom Rule C:/Users/Ken/Livox-SDK/sample/lidar_lvx_file/CMakeLists.txt
+  main.cpp
+C:\Users\Ken\Livox-SDK\sample\lidar_lvx_file\lvx_file.h(107,31): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sdk_core\include\third_party\cmdline\cmdline.h(550,1): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sample\lidar_lvx_file\main.cpp(113,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lvx_file.cpp
+C:\Users\Ken\Livox-SDK\sample\lidar_lvx_file\lvx_file.h(107,31): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Ken\Livox-SDK\sample\lidar_lvx_file\lvx_file.cpp(48,22): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ken\Livox-SDK\sample\lidar_lvx_file\lvx_file.cpp(57,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  コードを生成中...
+  lidar_lvx_sample.vcxproj -> C:\Users\Ken\Livox-SDK\build\sample\lidar_lvx_file\Debug\lidar_lvx_sample.exe
