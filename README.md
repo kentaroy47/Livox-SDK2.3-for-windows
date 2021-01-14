@@ -1,3 +1,6 @@
+* Added Windows compiled lidar data collection script. [Here](https://github.com/kentaroy47/Livox-SDK2.3-for-windows/blob/master/build/sample/lidar_lvx_file/Debug/lidar_lvx_sample.exe)
+
+
 [中文版本使用说明](<https://github.com/Livox-SDK/Livox-SDK/blob/master/README_CN.md>)
 
 # 1 Introduction
